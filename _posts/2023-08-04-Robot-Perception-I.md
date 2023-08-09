@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Robot Perception"
-description: "Robot Perception"
+title: "Robot Perception I"
+description: "Robot Perception I"
 date: 2023-08-04
 feature_image: 
 tags: [ROS, OpenCV, Raspberry Pi, Linux]
@@ -11,7 +11,7 @@ A study note for Computer Vision in ROS with OpenCV.
 
 <!--more-->
 
-# Robot Perception
+# Robot Perception I
 
 ### Bridging Images between OpenCV and ROS
 
