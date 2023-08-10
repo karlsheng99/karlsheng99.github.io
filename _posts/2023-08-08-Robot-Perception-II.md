@@ -58,6 +58,6 @@ The objective of this second assignment is to develop a Proportional controller 
 - Test the code on Turtlebot3 in the maze environment and house environment.
 - Test it on a real robot if you have one (any kind of real robot).
 
-[![Watch the video](https://youtu.be/H-VPotndE4I/maxresdefault.jpg)](https://youtu.be/H-VPotndE4I)
+[![Watch the video](https://img.youtube.com/vi/H-VPotndE4I/maxresdefault.jpg)](https://youtu.be/H-VPotndE4I)
 
 
